@@ -16,5 +16,6 @@ public class DemoApplication {
 		//SpringApplicatin.run(DemoApplication.class, args);*/
 		toplama(3,2,5);
 	}
+//burada github uygulaması kullanıldı
 
 }
